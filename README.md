@@ -45,11 +45,13 @@ The numerical columns are; domestic_gross, foreign_gross and year. The count rep
 On comparing the mean and the median in both columns;in the domestic gross column, the mean is higher than the median implying that the data is skewed to the right,that is, it is positively skewed. In the foreign gross column, the mean is also higher than the median, implying that it is also positively skewed.
 
 Let's visualize this;
+![histogram of foreign and domestic gross]("C:\Users\Admin\Desktop\project1\dsc-phase-1-project-v2-4\histogram of foreign and domestic gross.PNG" )
+'''
 
 
 The histogram shows that the data in both columns is positively skewed. The correlation between domestic gross and foreign gross is 0.768451 which indicates that the two variables have a strong relationship and that they are positively correlated ,that is, increase in domestic gross leads to increase in foreign gross and vice versa. We can visualize this using a scatter plot.
 
-
+![relationship of foreign and domestic gross]("C:\Users\Admin\Desktop\project1\dsc-phase-1-project-v2-4\foreign vs domestic.PNG" )
 
 The correlation between foreign_gross and year is 0.145653 which is a positive correlation, though not strong, implying that as years go by, the foreign gross increases. The correlation between year and domestic gross is 0.122727 ,which is a positive correlation, implying that as years go by the domestic gross increases.
 
@@ -60,7 +62,7 @@ The numerical columns are; runtime_minutes, average_rating, numberof votes and s
 
 For runtime and number of votes , the mean is greater than the median meaning that the data in those columns is positively skewed/skewed to the right and for the average rating, the median is greater than the mean implying that the data is negatively skewed/skewed to the left. Let's visualize this.
 
-
+![histogram of runtime, rating and votes]("C:\Users\Admin\Desktop\project1\dsc-phase-1-project-v2-4\hist of runtime, rating and votes.PNG")
 
 The top 5 rated movies are;The Dark Knight: The Ballad of the N Word,The Paternal Bond: Barbary Macaques, I Was Born Yesterday! , Ellis Island and Requiem voor een Boom .The top rated movies are of genre; comedy,drama,documentary and history.The poorly rated movies were;Onverwacht, Ya vas vsyekh ub'yu, Delusion of Persecution, Pure Hearts: Into Chinese Showbiz and Ryûsei which were of genre; documentary, drama,horror,thriller,comedy and family .
 
@@ -68,12 +70,14 @@ The correlation between runtime minutes and the average rating is -0.007076, whi
 
 Let's visualize the relationship between the runtime and average rating.
 
+![relationship between runtime and rating](""C:\Users\Admin\Desktop\project1\dsc-phase-1-project-v2-4\runtime vs rating.PNG"")
 
 
 From the above scatter plot, we can tell that runtime minutes aand average rating have low negative to no correlation but it still implies that increase in runtime minutes may lead to decrease in the average rating hence the company should put this into consideration.
 
 Let's visualize the relationship between the runtime and number of votes.
 
+![relationship between runtime and votes]("""C:\Users\Admin\Desktop\project1\dsc-phase-1-project-v2-4\runtime vs numvotes.PNG""")
 
 ## Conclusion
 ### Recommendations
