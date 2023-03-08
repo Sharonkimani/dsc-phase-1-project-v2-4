@@ -61,7 +61,7 @@ The numerical columns are; runtime_minutes, average_rating, numberof votes and s
 
 For runtime and number of votes , the mean is greater than the median meaning that the data in those columns is positively skewed/skewed to the right and for the average rating, the median is greater than the mean implying that the data is negatively skewed/skewed to the left. Let's visualize this.
 
-![histogram of runtime, rating and votes]("C:\Users\Admin\Desktop\project1\dsc-phase-1-project-v2-4\hist of runtime, rating and votes.PNG")
+![histogram of runtime, rating and votes](https://github.com/Sharonkimani/dsc-phase-1-project-v2-4/blob/master/hist%20of%20runtime%2C%20rating%20and%20votes.PNG)
 
 The top 5 rated movies are;The Dark Knight: The Ballad of the N Word,The Paternal Bond: Barbary Macaques, I Was Born Yesterday! , Ellis Island and Requiem voor een Boom .The top rated movies are of genre; comedy,drama,documentary and history.The poorly rated movies were;Onverwacht, Ya vas vsyekh ub'yu, Delusion of Persecution, Pure Hearts: Into Chinese Showbiz and Ryûsei which were of genre; documentary, drama,horror,thriller,comedy and family .
 
