@@ -76,7 +76,7 @@ From the above scatter plot, we can tell that runtime minutes aand average ratin
 
 Let's visualize the relationship between the runtime and number of votes.
 
-![relationship between runtime and votes]("""C:\Users\Admin\Desktop\project1\dsc-phase-1-project-v2-4\runtime vs numvotes.PNG""")
+![relationship between runtime and votes](https://github.com/Sharonkimani/dsc-phase-1-project-v2-4/blob/master/runtime%20vs%20numvotes.PNG)
 
 ## Conclusion
 ### Recommendations
