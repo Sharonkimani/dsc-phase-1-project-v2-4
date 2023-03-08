@@ -45,8 +45,7 @@ The numerical columns are; domestic_gross, foreign_gross and year. The count rep
 On comparing the mean and the median in both columns;in the domestic gross column, the mean is higher than the median implying that the data is skewed to the right,that is, it is positively skewed. In the foreign gross column, the mean is also higher than the median, implying that it is also positively skewed.
 
 Let's visualize this;
-![histogram of foreign and domestic gross]("C:\Users\Admin\Desktop\project1\dsc-phase-1-project-v2-4\histogram of foreign and domestic gross.PNG" )
-'''
+![histogram of foreign and domestic gross](https://github.com/Sharonkimani/dsc-phase-1-project-v2-4/blob/master/histogram%20of%20foreign%20and%20domestic%20gross.PNG )
 
 
 The histogram shows that the data in both columns is positively skewed. The correlation between domestic gross and foreign gross is 0.768451 which indicates that the two variables have a strong relationship and that they are positively correlated ,that is, increase in domestic gross leads to increase in foreign gross and vice versa. We can visualize this using a scatter plot.
