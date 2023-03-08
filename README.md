@@ -69,7 +69,7 @@ The correlation between runtime minutes and the average rating is -0.007076, whi
 
 Let's visualize the relationship between the runtime and average rating.
 
-![relationship between runtime and rating](""C:\Users\Admin\Desktop\project1\dsc-phase-1-project-v2-4\runtime vs rating.PNG"")
+![relationship between runtime and rating](https://github.com/Sharonkimani/dsc-phase-1-project-v2-4/blob/master/runtime%20vs%20rating.PNG)
 
 
 From the above scatter plot, we can tell that runtime minutes aand average rating have low negative to no correlation but it still implies that increase in runtime minutes may lead to decrease in the average rating hence the company should put this into consideration.
