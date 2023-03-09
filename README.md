@@ -84,3 +84,6 @@ Let's visualize the relationship between the runtime and number of votes.
 * The company should consider creating few movies of genre; horror, thriller and family  since  the least rated movies were of these genres.
 * The company should make movies that are not too long nor too short since increase in runtime minutes increases number of votes but also decreases the average rating.
 
+##jupyter notebook and presentation link
+[jupyter notebook]()
+[presentation]()
