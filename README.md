@@ -86,4 +86,4 @@ Let's visualize the relationship between the runtime and number of votes.
 
 ##jupyter notebook and presentation link
 [jupyter notebook](https://github.com/Sharonkimani/dsc-phase-1-project-v2-4/blob/master/student.ipynb)
-[presentation]()
+[presentation](https://github.com/Sharonkimani/dsc-phase-1-project-v2-4/blob/master/presentation.pdf)
