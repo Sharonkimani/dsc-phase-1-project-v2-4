@@ -85,5 +85,5 @@ Let's visualize the relationship between the runtime and number of votes.
 * The company should make movies that are not too long nor too short since increase in runtime minutes increases number of votes but also decreases the average rating.
 
 ##jupyter notebook and presentation link
-[jupyter notebook]()
+[jupyter notebook](https://github.com/Sharonkimani/dsc-phase-1-project-v2-4/blob/master/student.ipynb)
 [presentation]()
